@@ -10,3 +10,5 @@ Questions Answered:
 5. What is the average EV car range per city?
 6. What is the distribution of EV's by model year?
 7. What are the most popular BEV's and PHEV's?
+8. What are the top 10 counties with the most EV's?
+9. What are the top 10 cities with the most EV's?
